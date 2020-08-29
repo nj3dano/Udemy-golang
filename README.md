@@ -1,2 +1,2 @@
 # Udemy-golang
-Udemy course golang with Todd McLeod
+Udemy course golang with Todd McLeod August 2020
